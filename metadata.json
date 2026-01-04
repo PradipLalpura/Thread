@@ -1,0 +1,7 @@
+{
+  "name": "THREAD HRMS",
+  "description": "A production-grade, role-based Human Resource Management System with attendance tracking, salary calculation, and leave management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
